@@ -42,12 +42,9 @@ Skills are compatible with [OpenClaw](https://github.com/openclaw), [Hermes Agen
 | 🔎 | [Fellow](https://github.com/indigokarasu/fellow) | Experimentation engine — runs controlled benchmark experiments |
 | 🧭 | [Reach](https://github.com/indigokarasu/reach) | Real-time world-data query engine — stocks, weather, news |
 | 🦜 | [Bower](https://github.com/indigokarasu/bower) | Automatic Google Drive organizer with preference learning |
-| 🌊 | [Voyage](https://github.com/indigokarasu/voyage) | Travel planning, itinerary construction, and reservation management |
+| ✈️ | [Voyage](https://github.com/indigokarasu/voyage) | Travel planning, itinerary construction, and reservation management |
 | 🏛️ | [Praxis](https://github.com/indigokarasu/praxis) | Behavioral refinement loop — measures and improves skill outcomes |
-| ☀️ | [Lucid](https://github.com/indigokarasu/lucid) | Nightly journal curator — files skill journals into MemPalace |
-| 🛠️ | [Google Workspace](https://github.com/indigokarasu/google-workspace) | Gmail, Calendar, Drive, Sheets, Contacts via Workspace MCP |
-| 🤖 | [Hermes Agent](https://github.com/indigokarasu/hermes-agent) | The extensible AI agent framework with skills, MCP, cron, and multi-model support |
-| 🖥️ | [Hermes Mercury UI](https://github.com/indigokarasu/hermes-mercury-ui) | Modern web frontend for the Hermes AI agent |
+| 🌙 | [Lucid](https://github.com/indigokarasu/lucid) | Nightly journal curator — files skill journals into MemPalace |
 
 ## Architecture
 
