@@ -41,7 +41,7 @@ Skills are compatible with [OpenClaw](https://github.com/openclaw), [Hermes Agen
 | 🐦 | [Finch](https://github.com/indigokarasu/finch) | Self-improvement orchestrator — mines session history for patterns |
 | 🔎 | [Fellow](https://github.com/indigokarasu/fellow) | Experimentation engine — runs controlled benchmark experiments |
 | 🧭 | [Reach](https://github.com/indigokarasu/reach) | Real-time world-data query engine — stocks, weather, news |
-| 🏹 | [Bower](https://github.com/indigokarasu/bower) | Automatic Google Drive organizer with preference learning |
+| 🦜 | [Bower](https://github.com/indigokarasu/bower) | Automatic Google Drive organizer with preference learning |
 | 🌊 | [Voyage](https://github.com/indigokarasu/voyage) | Travel planning, itinerary construction, and reservation management |
 | 🏛️ | [Praxis](https://github.com/indigokarasu/praxis) | Behavioral refinement loop — measures and improves skill outcomes |
 | ☀️ | [Lucid](https://github.com/indigokarasu/lucid) | Nightly journal curator — files skill journals into MemPalace |
