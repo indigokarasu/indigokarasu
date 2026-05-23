@@ -16,34 +16,48 @@
 
 **OCAS** (Open Claw Agent Suite) is a collection of 26+ open-source agent skills that work together as a personal intelligence system. Each skill owns a narrow responsibility — calendar, research, finance, memory, social graph — and communicates through structured signal files and a shared knowledge graph called [Chronicle](https://github.com/indigokarasu/elephas).
 
-Skills are compatible with [OpenClaw](https://github.com/openclaw), [Hermes Agent](https://github.com/indigokarasu/hermes-agent), and any [agentskills.io](https://agentskills.io/specification)-compliant client.
+Skills are compatible with [OpenClaw](https://github.com/openclaw), [Hermes Agent](https://github.com/indigokarasu/hermes-agent), Claude, and any [agentskills.io](https://agentskills.io/specification)-compliant client.
 
-## Featured Skills
+## All Skills
 
-| Skill | What it does |
-|---|---|
-| [Sands](https://github.com/indigokarasu/sands) | Natural-language calendar management across multiple calendars |
-| [Scout](https://github.com/indigokarasu/scout) | Structured OSINT research with full provenance |
-| [Rally](https://github.com/indigokarasu/rally) | Governed portfolio research and trade planning |
-| [Mentor](https://github.com/indigokarasu/mentor) | Multi-skill orchestration and self-improvement engine |
-| [Weave](https://github.com/indigokarasu/weave) | Private provenance-backed social graph |
-| [Taste](https://github.com/indigokarasu/taste) | Personalized recommendations from real consumption signals |
-| [Corvus](https://github.com/indigokarasu/corvus) | Pattern analysis across knowledge graph and journals |
-| [Sift](https://github.com/indigokarasu/sift) | Web search, research synthesis, and fact verification |
-| [Look](https://github.com/indigokarasu/look) | Image-to-action across calendar, shopping, receipts |
-| [Vesper](https://github.com/indigokarasu/vesper) | Daily briefing generator aggregating all skill signals |
-| [Elephas](https://github.com/indigokarasu/elephas) | Long-term memory — sole writer to Chronicle knowledge graph |
-| [Forge](https://github.com/indigokarasu/forge) | Skill architect and builder with six-phase pipeline |
+| | Skill | Description |
+|---|---|---|
+| 🏜️ | [Sands](https://github.com/indigokarasu/sands) | Natural-language calendar management across multiple calendars |
+| 🔍 | [Scout](https://github.com/indigokarasu/scout) | Structured OSINT research with full provenance |
+| 🐎 | [Rally](https://github.com/indigokarasu/rally) | Governed portfolio research and trade planning |
+| 🎓 | [Mentor](https://github.com/indigokarasu/mentor) | Multi-skill orchestration and self-improvement engine |
+| 🕸️ | [Weave](https://github.com/indigokarasu/weave) | Private provenance-backed social graph |
+| 🎯 | [Taste](https://github.com/indigokarasu/taste) | Personalized recommendations from real consumption signals |
+| 🐦‍⬛ | [Corvus](https://github.com/indigokarasu/corvus) | Pattern analysis across knowledge graph and journals |
+| 🔬 | [Sift](https://github.com/indigokarasu/sift) | Web search, research synthesis, and fact verification |
+| 👁️ | [Look](https://github.com/indigokarasu/look) | Image-to-action for calendar, shopping, receipts, and more |
+| 🌅 | [Vesper](https://github.com/indigokarasu/vesper) | Daily briefing generator aggregating all skill signals |
+| 🐘 | [Elephas](https://github.com/indigokarasu/elephas) | Long-term memory — sole writer to Chronicle knowledge graph |
+| 🔨 | [Forge](https://github.com/indigokarasu/forge) | Skill architect and builder with six-phase pipeline |
+| 🧹 | [Custodian](https://github.com/indigokarasu/custodian) | Autonomous operations monitor — self-heals agent platform failures |
+| 🌊 | [Styx](https://github.com/indigokarasu/styx) | Transaction data store with merchant enrichment |
+| 💧 | [Spot](https://github.com/indigokarasu/spot) | Appointment booking automation for SevenRooms, Resy, Tock, OpenTable |
+| 🖼️ | [Imagine](https://github.com/indigokarasu/imagine) | Art-direction engine for text-to-image generation |
+| 🐦 | [Finch](https://github.com/indigokarasu/finch) | Self-improvement orchestrator — mines session history for patterns |
+| 🔎 | [Fellow](https://github.com/indigokarasu/fellow) | Experimentation engine — runs controlled benchmark experiments |
+| 🧭 | [Reach](https://github.com/indigokarasu/reach) | Real-time world-data query engine — stocks, weather, news |
+| 🏹 | [Bower](https://github.com/indigokarasu/bower) | Automatic Google Drive organizer with preference learning |
+| 🌊 | [Voyage](https://github.com/indigokarasu/voyage) | Travel planning, itinerary construction, and reservation management |
+| 🏛️ | [Praxis](https://github.com/indigokarasu/praxis) | Behavioral refinement loop — measures and improves skill outcomes |
+| ☀️ | [Lucid](https://github.com/indigokarasu/lucid) | Nightly journal curator — files skill journals into MemPalace |
+| 🛠️ | [Google Workspace](https://github.com/indigokarasu/google-workspace) | Gmail, Calendar, Drive, Sheets, Contacts via Workspace MCP |
+| 🤖 | [Hermes Agent](https://github.com/indigokarasu/hermes-agent) | The extensible AI agent framework with skills, MCP, cron, and multi-model support |
+| 🖥️ | [Hermes Mercury UI](https://github.com/indigokarasu/hermes-mercury-ui) | Modern web frontend for the Hermes AI agent |
 
 ## Architecture
 
-Skills emit structured signals → Elephas ingests them into Chronicle (knowledge graph) → Corvus finds patterns across everything → Vesper tells you what matters.
+Skills emit structured signals → Elephas ingests them into Chronicle (knowledge graph) → Corvus finds patterns → Vesper delivers daily briefings.
 
 ## Get Started
 
 1. Install [Hermes Agent](https://github.com/indigokarasu/hermes-agent) or any agentskills.io-compliant client
 2. Add the skills you need
-3. Start with Sands (calendar) or Vesper (briefings) for immediate value
+3. Start with **Sands** (calendar) or **Vesper** (briefings) for immediate value
 
 ## Connect
 
