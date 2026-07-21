@@ -50,12 +50,12 @@ Indigo Karasu's public projects.
 
 - [ocas-architecture](https://github.com/indigokarasu/ocas-architecture), system specs, schemas, and design documents
 - [google-workspace-auth](https://github.com/indigokarasu/google-workspace-auth), Gmail, Calendar, Drive OAuth
-- [chronicle-agent-context-and-memory](https://github.com/indigokarasu/chronicle-agent-context-and-memory), event-sourced memory provider and context engine
 - [UserContext](https://github.com/indigokarasu/UserContext), daily context generator
 
-## Plugins and MCPs
+## Plugins
 
-- [hermes-custodian-plugin](https://github.com/indigokarasu/hermes-custodian-plugin), monitoring, auto-repair, and escalation plugin
-- [hermes-identity-plugin](https://github.com/indigokarasu/hermes-identity-plugin), Hermes identity and persona plugin
-- [hermes-pocket-watch-plugin](https://github.com/indigokarasu/hermes-pocket-watch-plugin), Hermes pocket watch plugin
-- [mcp-plu-upc](https://github.com/indigokarasu/mcp-plu-upc), UPC/barcode and PLU produce lookups
+- [Chronicle](https://github.com/indigokarasu/chronicle-agent-context-and-memory), event-sourced memory provider and context engine
+- [Custodian](https://github.com/indigokarasu/hermes-custodian-plugin), operational monitoring, auto-repair, and escalation
+- [Identity](https://github.com/indigokarasu/hermes-identity-plugin), Hermes identity and persona plugin
+- [Pocket Watch](https://github.com/indigokarasu/hermes-pocket-watch-plugin), Hermes pocket watch plugin
+- [mcp-plu-upc](https://github.com/indigokarasu/mcp-plu-upc), MCP server for UPC/barcode and PLU produce lookups
