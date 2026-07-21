@@ -6,11 +6,6 @@
 
 Indigo Karasu's public projects.
 
-## Agent Runtime
-
-- [hermes-agent](https://github.com/indigokarasu/hermes-agent), gateway, personas, tool orchestration
-- [indigo](https://github.com/indigokarasu/indigo), profile config: identity, memory, context
-
 ## Skills
 
 - [forge](https://github.com/indigokarasu/forge), design and build agent skills
@@ -61,4 +56,6 @@ Indigo Karasu's public projects.
 ## Plugins and MCPs
 
 - [hermes-custodian-plugin](https://github.com/indigokarasu/hermes-custodian-plugin), monitoring, auto-repair, and escalation plugin
+- [hermes-identity-plugin](https://github.com/indigokarasu/hermes-identity-plugin), Hermes identity and persona plugin
+- [hermes-pocket-watch-plugin](https://github.com/indigokarasu/hermes-pocket-watch-plugin), Hermes pocket watch plugin
 - [mcp-plu-upc](https://github.com/indigokarasu/mcp-plu-upc), UPC/barcode and PLU produce lookups
