@@ -4,17 +4,18 @@
   <img src="./assets/readme/hero.jpg" width="100%" alt="indigokarasu">
 </p>
 
-Indigo Karasu's public projects span agent runtimes, skills, automation, research, and utilities.
+Indigo Karasu's public projects.
 
 ## Agent Runtime
 
-- [hermes-agent](https://github.com/indigokarasu/hermes-agent), agent runtime: gateway, personas, tool orchestration
-- [indigo](https://github.com/indigokarasu/indigo), Indigo Karasu profile config: identity, memory, context
+- [hermes-agent](https://github.com/indigokarasu/hermes-agent), gateway, personas, tool orchestration
+- [indigo](https://github.com/indigokarasu/indigo), profile config: identity, memory, context
 
 ## Skills
 
 - [forge](https://github.com/indigokarasu/forge), design and build agent skills
 - [finch](https://github.com/indigokarasu/finch), mine session history for behavioral patterns
+- [mentor](https://github.com/indigokarasu/mentor), multi-skill orchestration and self-improvement engine
 - [praxis](https://github.com/indigokarasu/praxis), measure skill outcomes against baselines
 - [skilllab](https://github.com/indigokarasu/skilllab), audit, merge, prune, and publish skills
 
@@ -43,7 +44,6 @@ Indigo Karasu's public projects span agent runtimes, skills, automation, researc
 
 - [imagine](https://github.com/indigokarasu/imagine), art-direction engine for text-to-image generation
 - [look](https://github.com/indigokarasu/look), image-to-action: photos become calendar, shopping, and receipt drafts
-- [mcp-plu-upc](https://github.com/indigokarasu/mcp-plu-upc), UPC/barcode and PLU produce lookups
 
 ## Workflows
 
@@ -55,4 +55,10 @@ Indigo Karasu's public projects span agent runtimes, skills, automation, researc
 
 - [ocas-architecture](https://github.com/indigokarasu/ocas-architecture), system specs, schemas, and design documents
 - [google-workspace-auth](https://github.com/indigokarasu/google-workspace-auth), Gmail, Calendar, Drive OAuth
-- [eng-skills](https://github.com/indigokarasu/eng-skills), engineering skills collection
+- [chronicle-agent-context-and-memory](https://github.com/indigokarasu/chronicle-agent-context-and-memory), event-sourced memory provider and context engine
+- [UserContext](https://github.com/indigokarasu/UserContext), daily context generator
+
+## Plugins and MCPs
+
+- [hermes-custodian-plugin](https://github.com/indigokarasu/hermes-custodian-plugin), monitoring, auto-repair, and escalation plugin
+- [mcp-plu-upc](https://github.com/indigokarasu/mcp-plu-upc), UPC/barcode and PLU produce lookups
