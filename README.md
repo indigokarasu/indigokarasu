@@ -58,3 +58,7 @@ Indigo Karasu's public projects.
 - [Identity](https://github.com/indigokarasu/hermes-identity-plugin), Hermes identity and persona plugin
 - [Pocket Watch](https://github.com/indigokarasu/hermes-pocket-watch-plugin), Hermes pocket watch plugin
 - [mcp-plu-upc](https://github.com/indigokarasu/mcp-plu-upc), MCP server for UPC/barcode and PLU produce lookups
+
+---
+## 📄 License
+MIT License — see `LICENSE` for details.
