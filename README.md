@@ -49,7 +49,6 @@ Indigo Karasu's public projects.
 ## Infrastructure
 
 - [ocas-architecture](https://github.com/indigokarasu/ocas-architecture), system specs, schemas, and design documents
-- [google-workspace-auth](https://github.com/indigokarasu/google-workspace-auth), Gmail, Calendar, Drive OAuth
 - [UserContext](https://github.com/indigokarasu/UserContext), daily context generator
 
 ## Plugins
