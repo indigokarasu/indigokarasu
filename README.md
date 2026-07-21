@@ -1,7 +1,7 @@
 # indigokarasu
 
 <p align="center">
-  <img src="./assets/readme/hero.svg" width="100%" alt="indigokarasu — Building OCAS, an open suite of agent skills for personal intelligence.">
+  <img src="./assets/readme/hero.jpg" width="100%" alt="indigokarasu — Building OCAS, an open suite of agent skills for personal intelligence.">
 </p>
 
 **indigokarasu** — Building OCAS, an open suite of agent skills for personal intelligence.
