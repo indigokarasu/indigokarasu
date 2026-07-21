@@ -1,7 +1,7 @@
 # indigokarasu
 
 <p align="center">
- <img src="./assets/readme/hero.jpg" width="100%" alt="indigokarasu">
+  <img src="./assets/readme/hero.jpg" width="100%" alt="indigokarasu">
 </p>
 
 Indigo Karasu's public projects span agent runtimes, skills, automation, research, and utilities.
@@ -9,6 +9,7 @@ Indigo Karasu's public projects span agent runtimes, skills, automation, researc
 ## Agent Runtime
 
 - [hermes-agent](https://github.com/indigokarasu/hermes-agent), agent runtime: gateway, personas, tool orchestration
+- [indigo](https://github.com/indigokarasu/indigo), Indigo Karasu profile config: identity, memory, context
 
 ## Skills
 
@@ -47,24 +48,11 @@ Indigo Karasu's public projects span agent runtimes, skills, automation, researc
 ## Workflows
 
 - [multipass](https://github.com/indigokarasu/multipass), accomplish tasks that need tools the agent doesn't have
+- [dispatch](https://github.com/indigokarasu/dispatch), communications management across email, messaging, and social
+- [relay](https://github.com/indigokarasu/relay), device-to-gateway message routing
 
 ## Infrastructure
 
 - [ocas-architecture](https://github.com/indigokarasu/ocas-architecture), system specs, schemas, and design documents
-
-## Meta
-
-- [UserContext](https://github.com/indigokarasu/UserContext), daily context generator
-- [chronicle-agent-context-and-memory](https://github.com/indigokarasu/chronicle-agent-context-and-memory), event-sourced memory provider and context engine
-- [hermes-custodian-plugin](https://github.com/indigokarasu/hermes-custodian-plugin), monitoring, auto-repair, and escalation plugin
-- [get-md](https://github.com/indigokarasu/get-md), lightweight HTML-to-Markdown converter
-- [liveemote](https://github.com/indigokarasu/liveemote), live emotion tracking
-- [Authenticator](https://github.com/indigokarasu/Authenticator), 2-step verification codes in the browser
-- [indigokarasu-site](https://github.com/indigokarasu/indigokarasu-site), source for indigokarasu.com
-- [mentor](https://github.com/indigokarasu/mentor), multi-skill orchestration and self-improvement engine
-
-## Utility
-
-
-## Engineering
-
+- [google-workspace-auth](https://github.com/indigokarasu/google-workspace-auth), Gmail, Calendar, Drive OAuth
+- [eng-skills](https://github.com/indigokarasu/eng-skills), engineering skills collection
