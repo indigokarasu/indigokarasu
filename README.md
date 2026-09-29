@@ -4,14 +4,13 @@
   <img src="./assets/readme/hero.svg" width="100%" alt="indigokarasu">
 </p>
 
-Indigo Karasu's public projects.
 
 ## Featured
 
-- **[finch](https://github.com/indigokarasu/finch)** — self-improvement orchestrator that mines session history for corrections, breakthroughs, and behavioral patterns. **31 ★**
-- **[chronicle-agent-context-and-memory](https://github.com/indigokarasu/chronicle-agent-context-and-memory)** — local-first long-term memory and safer context compression for Hermes Agent. **6 ★**
-- **[hermes-custodian-plugin](https://github.com/indigokarasu/hermes-custodian-plugin)** — operational monitoring, auto-repair, and escalation for Hermes Agent. **4 ★**
-- **[spot](https://github.com/indigokarasu/spot)** — appointment booking automation across SevenRooms, Resy, Tock, and OpenTable. **2 ★**
+- **[finch](https://github.com/indigokarasu/finch)** — self-improvement orchestrator that mines session history for corrections, breakthroughs, and behavioral patterns.
+- **[chronicle-agent-context-and-memory](https://github.com/indigokarasu/chronicle-agent-context-and-memory)** — local-first long-term memory and safer context compression for Hermes Agent.
+- **[hermes-custodian-plugin](https://github.com/indigokarasu/hermes-custodian-plugin)** — operational monitoring, auto-repair, and escalation for Hermes Agent.
+- **[spot](https://github.com/indigokarasu/spot)** — appointment booking automation across SevenRooms, Resy, Tock, and OpenTable.
 
 ## Skills
 
