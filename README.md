@@ -8,6 +8,8 @@ Indigo Karasu's public projects.
 
 ## Skills
 
+- [eng-skills](https://github.com/indigokarasu/eng-skills), consolidated engineering skill monorepo, including the single integrated `10xeng` skill
+- [utilities](https://github.com/indigokarasu/utilities), consolidated utility skill monorepo
 - [forge](https://github.com/indigokarasu/forge), design and build agent skills
 - [finch](https://github.com/indigokarasu/finch), mine session history for behavioral patterns
 - [mentor](https://github.com/indigokarasu/mentor), multi-skill orchestration and self-improvement engine
@@ -49,6 +51,8 @@ Indigo Karasu's public projects.
 ## Infrastructure
 
 - [ocas-architecture](https://github.com/indigokarasu/ocas-architecture), system specs, schemas, and design documents
+- [eng-skills](https://github.com/indigokarasu/eng-skills), canonical home for engineering skills; former standalone `10xeng-*` skills are consolidated into `eng-skills/10xeng`
+- [utilities](https://github.com/indigokarasu/utilities), canonical home for former standalone `util-*` skills
 - [UserContext](https://github.com/indigokarasu/UserContext), daily context generator
 
 ## Plugins
